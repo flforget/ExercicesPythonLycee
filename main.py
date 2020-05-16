@@ -1,5 +1,5 @@
-from ex2 import ex1
+from ex2 import ex2
 
 print("Exercice 1 :")
-ex1()
+ex2()
 print("-----------------------------------")
