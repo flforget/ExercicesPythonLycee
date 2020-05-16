@@ -1,5 +1,7 @@
+from ex1 import ex1
 from ex2 import ex2
 
-print("Exercice 1 :")
-ex2()
-print("-----------------------------------")
+exL = [ex1(),ex2()]
+
+for ex in exL:
+    print(ex)
